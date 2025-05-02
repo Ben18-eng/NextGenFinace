@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Schülerfinanzen</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f4f7f9;
+      color: #333;
+      padding: 30px;
+      line-height: 1.6;
+    }
+
+    header {
+      background-color: #007acc;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+    }
+
+    section {
+      margin-top: 30px;
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+
+    h2 {
+      color: #007acc;
+    }
+
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Schülerfinanzen</h1>
+    <p>Finanztipps für junge Leute – einfach erklärt</p>
+  </header>
+
+  <section>
+    <h2>Wie lege ich ein ETF-Konto an?</h2>
+    <p>Ein ETF-Konto ist ein Depot bei einer Bank oder einem Broker. Dort kannst du regelmäßig in ETFs investieren. Schritt für Schritt:</p>
+    <ol>
+      <li>Such dir einen günstigen Broker (z. B. Scalable Capital, Trade Republic).</li>
+      <li>Eröffne dein Konto mit Video-Ident.</li>
+      <li>Such dir einen ETF aus (z. B. MSCI World).</li>
+      <li>Starte einen Sparplan – z. B. 25 €/Monat.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Was ist ein ETF?</h2>
+    <p>Ein ETF ist ein <strong>E</strong>xchange <strong>T</strong>raded <strong>F</strong>und – also ein börsengehandelter Fonds. Er streut dein Geld über viele Unternehmen. Mehr Infos auf <a href="https://finanztip.de/etf/" target="_blank">Finanztip</a>.</p>
+  </section>
+
+</body>
+</html>
